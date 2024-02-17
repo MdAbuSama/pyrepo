@@ -1,0 +1,1 @@
+print("Ok, Now start your work with python")
